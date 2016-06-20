@@ -22,6 +22,16 @@ BLUG Zoo Animals
 |Elephant      | PHP           | Elephpant             | Y              |  Y              | 3.2k/9.3k       |
 |              | (php.net)     |                       |                |                 | (not primary)   |
 +--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+|(Lion)        | Open Source   |                       | Y              |  N              |                 |
+|              | Lion Tracking |                       |                |                 |                 |
+|              | Collars       |                       |                |                 |                 |
+|              | (groundlab.cc)|                       |                |                 |                 |
+|              | [seems dead]  |                       |                |                 |                 |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+| Lion         | LeoFS         |                       |                |                 |                 |
+|              |               |                       |                |                 |                 |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+|              |               |                       |                |                 |                 |
 |              |               |                       |                |                 |                 |
 +--------------+---------------+-----------------------+----------------+-----------------+-----------------+
  
@@ -51,7 +61,7 @@ Key
  - Yb - wolf - wolfcms / wolfssl
  - Yb - pig - snort / apache pig
  - Yb - lemur - lemur project
- - Yb - lion - lion tracking collars / leo / 
+ - Yb - lion - lion tracking collars / leofs 
  - Yb - vtiger wiredtiger tiger intrusion detection
  - Yb - openswan
  - Yb - gravitylabs goose (but topgun...) gosling canada
