@@ -54,6 +54,8 @@ Key
  - Y - tortoise - tortoisesvn
  - Y - sea lion - mariadb
  - Y - owl semantic web language
+ - Y - meerkat - Maverick Meerkat
+ - Y - hog - Warty Warthog
 
  - Yb - egret labs stuff
  - Yb - meerkat - suricata / meerkat (maverick)
@@ -100,10 +102,9 @@ Key
  - [Y] - bear - or a bear???
  - [Y] - golden cat
  - [Y] - hyena - nope
- - [Y] - flamingo fz[Y] - cheetah
+ - [Y] - flamingo
+ - [Y] - cheetah
  - [Y] - porcupine
  - [Y] - zebra
- - [Y] - meerkat
- - [Y] - hog 
-
+ 
 Ubuntu animals - +1 for same family, +2 for same species 
