@@ -37,10 +37,36 @@ BLUG Zoo Animals
 | Owl          | Web Ontology  |                       | Y              | N               | N/A             |
 |              | Language      |                       |                |                 |                 |
 +--------------+---------------+-----------------------+----------------+-----------------+-----------------+
-|              |               |                       |                |                 |                 |
+| Sealion      | MariaDB       |                       | Y              | N               | 327/963         |
+|              |               |                       |                |                 | (biggest)       |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+| Giraffe      | Apache Giraph |                       | Y              | N               | 188/364         |
+|              |               |                       |                |                 | (not primary)   |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+| Pig          | Snort         | Pig                   | Y              | N               | 190/580         |
 |              |               |                       |                |                 |                 |
 +--------------+---------------+-----------------------+----------------+-----------------+-----------------+
- 
+| Dog          | GIMP          | Wilbur                | Y              | Y               | 190/580         |
+|              |               |                       |                |                 |                 |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+| Pidgin       | Pidgin        | Pidgin                | Y              | Y               | 190/580         |
+|              |               |                       |                |                 |                 |
++--------------+---------------+-----------------------+----------------+-----------------+-----------------+
+
+Ubuntu releases
+---------------
+
++--------------+---------------+
+|Release       | In Belfast Zoo|
+|              |               |
++==============+===============+
+| Maverick     | Y             |
+| Meerkat      |               |
++--------------+---------------+
+| Warty        | Y             |
+| Warthog      |               |
++--------------+---------------+
+
 Animals to move up to table
 ---------------------------
 
@@ -56,20 +82,14 @@ Key
  - Y - Gentoo/ pengui tux
  - Y - postgres elephant
  - Y - hadoop elephant (but 3??)
- - Y - dovecot - dove
  - Y - tortoise - tortoisesvn
- - Y - sea lion - mariadb
- - Y - owl semantic web language
+
  - Y - meerkat - Maverick Meerkat
  - Y - hog - Warty Warthog
 
  - Yb - egret labs stuff
- - Yb - meerkat - suricata / meerkat (maverick)
- - Yb - giraffe - apache giraph / giraffe.js
  - Yb - wolf - wolfcms / wolfssl
- - Yb - pig - snort / apache pig
  - Yb - lemur - lemur project
- - Yb - lion - lion tracking collars / leofs 
  - Yb - vtiger wiredtiger tiger intrusion detection
  - Yb - openswan
  - Yb - gravitylabs goose (but topgun...) gosling canada
@@ -77,7 +97,6 @@ Key
  - Yc - ostrich sans
  - Yc - kangaroot
 
- - y - Wilbur dog gimp (African wild dog?)
  - y - teal - flax&teal
  - y - Geeko opensuse
 
