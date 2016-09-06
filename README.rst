@@ -42,9 +42,10 @@ Usage
 -----
 
 All SVG is Inkscape SVG (https://www.inkscape.org/), and may use Inkscape extensions.
-*This means a normal SVG reader may not render it correctly*. Export each desired page as SVG. Copy the
+*This means a normal SVG reader may not render it correctly*. Export each desired page as PDF. Copy the
 pages you want to use and customize for additional projects you would like to incorporate. You probably
-want one pamphlet per person or small group.
+want one pamphlet per person or small group. `pdftk <https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/>`_
+does a great job of merging them all into a single printable document.
 
 Logos are not included in our git repo - all material here is original work and covered by the same
 license. Pull requests will not be merged while containing material of incompatible copyright status.
