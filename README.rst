@@ -61,6 +61,8 @@ feeling lazy, just swap it for "What do I eat?", but you miss out on a pre-trip 
 own, which is pretty fun, frankly. Note that those boards seem to be designed to make writing zoo-trail
 questions easy and are always visible, even if the animals are not, so are a helpful resource.
 
+.. image:: images/linux.png
+
 Tips
 ----
 
