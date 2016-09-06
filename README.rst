@@ -28,6 +28,8 @@ penultimate page combines Attribution, to collect all links and credits, and a f
 Apache Zookeeper. The back page is the list of animals. It is matched to the enclosure numbering in Belfast
 Zoo so you probably want to change that for your local venue.
 
+.. image:: images/cover.png
+
 Usage
 -----
 
