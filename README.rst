@@ -3,7 +3,7 @@ BLUG Zoo Trip
 
 In summer 2016, the Belfast Linux User Group (https://meetup.com/belfast-lug) ran a slightly unusual family
 friendly event. We organized a trail for kids and adults to explore the zoo by matching open source projects
-to mascot animals in the Zoo.
+to mascot animals in the Zoo. Many thanks to `Belfast Zoo <http://www.belfastzoo.co.uk/>`_ for hosting us.
 
 As this required a substantial amount of preparation of materials, but relatively little organization, the
 most logical option was to open source all our work, so that it could be picked up and run elsewhere with
