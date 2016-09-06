@@ -30,6 +30,14 @@ Zoo so you probably want to change that for your local venue.
 
 .. image:: images/cover.png
 
+Requirements
+------------
+
+- Inkscape (https://www.inkscape.org/)
+- League Spartan and League Gothic fonts (https://www.theleagueofmoveabletype.com/)
+- Zoo / aquarium / aviary / herpetarium / very big petshop
+- People who want to go to a LUG more often but weekday evenings don't work so well / kids who like open source
+
 Usage
 -----
 
